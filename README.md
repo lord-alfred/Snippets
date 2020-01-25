@@ -1,5 +1,6 @@
 ﻿# Сниппеты для ZennoPoster
 
+<img align="right" src="https://user-images.githubusercontent.com/1259709/73121376-7f2e5100-3f8a-11ea-8aac-6cedfb963a03.jpg">
 Набор пользовательских сниппетов (фрагментов исходного кода) для программы ZennoPoster/CodeCreator. Собираются и поддерживаются в актуальном состоянии благодаря энтузиастам с форума.
 
 
